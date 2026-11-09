@@ -1,6 +1,6 @@
 # Cek Dulu
 
-Pelindung penipuan online untuk ADIKARA 2026 (subdivisi Software). Pengguna membagikan
+Pelindung penipuan online. Pengguna membagikan
 tangkapan layar pesan mencurigakan, aplikasi membacanya **di ponsel**, lalu menampilkan
 tingkat risiko, alasan singkat, dan langkah yang disarankan. Mode Lansia menambah tampilan
 besar, penjelasan suara, dan tombol **Tanya keluarga**.
